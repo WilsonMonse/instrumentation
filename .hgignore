@@ -1,0 +1,10 @@
+^BUILD$
+^.mbed$
+^compile_commands.json$
+^.clangd$
+^.cache$
+^mbed-os$
+^lvgl$
+^lv_demos$
+^BSP_DISCO_F746NG$
+^RDA5807M$
